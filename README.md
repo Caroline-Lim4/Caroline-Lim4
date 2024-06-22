@@ -4,9 +4,9 @@
 
 ### Sobre mim
 
-💻 Desenvolvedor Fullstack em busca da minha primeira oportunidade.
+💻 Desenvolvedora Fullstack em busca da minha primeira oportunidade.
 
-🎓 Técnica em Desenvolvimento de Sistemas - Escola SENAI Morvan Figueiredo (06/2024).
+🎓 Técnico em Desenvolvimento de Sistemas - Escola SENAI Morvan Figueiredo (06/2024).
 
 🏆 Homenagem ao Melhor Aluno Curso Técnico: Melhor desempenho em rendimento e assiduidade. Formandos 1º semestre de 2024.
 
