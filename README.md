@@ -1,5 +1,6 @@
 <h3> Olá, eu sou Caroline Lima! 😉 </h3> 
 <h3>🌱 Seja bem vindo(a) ao meu perfil GitHub! 👋  </h3>  
+<h3> 🚧 Portifólio em construção 🚧 </h3>
 <h4></h4> 
 
 ### Sobre mim
@@ -23,16 +24,17 @@
 ![Django](https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
 
 ### Certificados 🤓
 
 AZ-900 - Azure Fundamentals (Link: https://www.credly.com/badges/e5573461-bd03-4288-8186-99a1f5796d3d/linked_in?t=s3clg7)
 
+Implantação de Serviços em Nuvem AWS - Arquiteto de Soluções Associate - Formação Inicial (Agosto/2023)
+
 AWS Academy Graduate - AWS Academy Cloud Foundations (Link: https://www.credly.com/badges/bc8b4b1e-0267-4bad-8fba-b01aaf028d8a/linked_in?t=rvbzmr)
 
-Python Essentials 1 by Cisco (Link: https://www.credly.com/badges/4b8ffb66-b158-4cca-9912-3dab42ba110c/linked_in?t=s2otnq)
-
-  
 
   ### Entre em contato comigo! 📭
 
