@@ -12,7 +12,7 @@
 🏆 Homenagem ao Melhor Aluno Curso Técnico: Melhor desempenho em rendimento e assiduidade. Formandos 1º semestre de 2024.
 
 
-### Visite meu site: [Clínica Vision](https://clinicavision.pythonanywhere.com/)
+### Visite meu site: [Clínica Vision](https://carolinesantos98.pythonanywhere.com/)
 Sistema web de gerenciamento de consultas, projetado para três perfis de usuários: Administrador, Médico e Paciente. Desenvolvido em colaboração com Yutty Akiko utilizando HTML, CSS, JavaScript, Python e Django.
 
 Link do repositório: [GitHub - clinica_vision](https://github.com/YuttyAkiko/clinica_vision)
